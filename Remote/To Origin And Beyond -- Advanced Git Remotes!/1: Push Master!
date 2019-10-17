@@ -1,0 +1,13 @@
+git fetch
+
+git checkout o/master
+
+git cherry-pick C2 C3 C4 C5 C6 C7
+
+git branch -f master HEAD
+
+git push
+
+git checkout master
+
+git push
