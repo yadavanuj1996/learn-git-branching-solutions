@@ -1,0 +1,3 @@
+git push origin foo:master
+
+git push origin master^:foo
