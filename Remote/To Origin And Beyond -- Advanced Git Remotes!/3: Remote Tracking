@@ -1,0 +1,9 @@
+git branch -f side o/master
+
+git checkout side
+
+git commit
+
+git pull --rebase
+
+git push
