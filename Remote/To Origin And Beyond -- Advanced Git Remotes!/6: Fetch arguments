@@ -1,0 +1,7 @@
+git fetch origin master^:foo
+
+git fetch origin foo:master
+
+git checkout foo
+
+git merge master
