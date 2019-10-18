@@ -1,0 +1,4 @@
+git pull origin bar:foo
+
+git pull origin master:side
+
