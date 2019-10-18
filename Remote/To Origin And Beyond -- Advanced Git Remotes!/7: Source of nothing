@@ -1,0 +1,3 @@
+git fetch origin :bar
+
+git push origin :foo
